@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Umer
+# 👋 Hi, I'm Umer Farooq
 
 🌱 I’m a passionate learner currently diving deep into **DevOps** and **Cloud Engineering**.
 💻 Exploring the tools, practices, and technologies that power modern infrastructure and software delivery.
@@ -34,11 +34,10 @@
 
 ---
 
-✨ Always open to learning, collaborating, and growing in this amazing journey of technology.
+📫 **Let’s connect:**  
+- [LinkedIn →](https://www.linkedin.com/in/syed-umer-farooq-3a245125a)  
+- [Email →](mailto:umerfarooqsyed18@gmail.com)
 
-📫 **Let’s connect:** [LinkedIn](www.linkedin.com/in/syed-umer-farooq-3a245125a
-
-) 
 
 
 
