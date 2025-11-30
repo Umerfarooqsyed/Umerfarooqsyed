@@ -40,8 +40,6 @@ Decent understanding of **infrastructure concepts**, **DevOps culture**, and **c
 **SDLC:**  
 Understanding of **Software Development Life Cycle (SDLC)** phases and their integration within DevOps practices.
 
-**Monitoring & Observability:**  
-Basic understanding of observability tools like **Prometheus** and **Grafana** for monitoring system performance and metrics.
 
 ---
 
