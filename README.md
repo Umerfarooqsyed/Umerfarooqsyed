@@ -14,7 +14,7 @@ I’m actively expanding my DevOps and Cloud skillset by learning **enterprise-g
 ## 💻 My Current Skills
 
 **Cloud Platforms:**  
-Basic understanding of **Microsoft Azure** and **Amazon Web Services (AWS)**, including core services and deployment concepts.
+Decent understanding of **Microsoft Azure** and **Amazon Web Services (AWS)** with Hands-on practice using Terraform, including core services and deployment concepts.
 
 **CI/CD Tools:**  
 Hands-on practice with **Jenkins** and **Azure Pipelines** for building and automating deployment pipelines.
